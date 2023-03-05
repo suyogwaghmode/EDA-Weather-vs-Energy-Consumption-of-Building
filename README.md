@@ -13,7 +13,7 @@ Dataset Author: Clayton Miller
 
 Key Metrics To Check:
 
-Temperature vs Energy Consumption
+Temperature vs Energy Consumption 
 Humidity vs Energy Consumption
 
 Tools Used: Jupyter Notebook for Python
