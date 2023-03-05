@@ -12,6 +12,7 @@ License: CC BY-SA 4.0
 Dataset Author: Clayton Miller
 
 Key Metrics To Check:
+
 Temperature vs Energy Consumption
 Humidity vs Energy Consumption
 
